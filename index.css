@@ -149,11 +149,19 @@ a{
 /* Responsive styles */
 @media screen and (max-width: 576px) {
     .unordered-list-nav {
+        display: flex;
         flex-direction: column;
+        background-color: #f56464; 
+        padding: 10px;
+        border-radius: 5px;
     }
 
     .unordered-li {
-        display: none;
+        margin: 5px 0; 
+        text-align: center; 
+    }
+    .list-image {
+        align-self: center; 
     }
 
     .top-section-container {
