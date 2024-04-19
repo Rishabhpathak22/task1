@@ -1,4 +1,4 @@
-# Task Project: Simple Website
+# Orderfood Project: Simple Website
 
 This project is a simple website created as part of a task project. It is live and can be viewed [here](https://rishabhpathak22.github.io/task1/).
 
